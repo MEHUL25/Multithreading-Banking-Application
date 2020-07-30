@@ -1,0 +1,15 @@
+Application will support simultaneous access by multiple threads to a single bank account balance, 
+without losing data integrity. 
+
+
+
+Create a banking application that uses conditions and locks to ensure thread safety.
+
+
+
+Task 1: Introduction to Multithreading and Our Project
+Task 2: Practice with Basics of Multithreading Demo
+Task 3: Thread Pools and Thread Priority
+Task 4: Race Conditions and Synchronization
+Task 5: Cooperating Between Threads with Conditions
+Task 6: Conclusion and Wrap-Up
